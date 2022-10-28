@@ -1,0 +1,103 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+/*Evito que el nav  no tenga distancia con lo de abajo de la pagina asi como tambien que todo el body
+tenga distancia */
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+/*Para poder dejar centrados todos los divs con titutlos e imagenes*/
+.centrar {
+  text-align: center;
+}
+
+.switch:hover {
+  width: 10%;
+}
+
+img {
+  width: 2em;
+  height: 2em;
+}
+
+/*Para que el logo de la pagina este bien dimensionado*/
+.logo_principal {
+  width: 15em;
+  height: 16em;
+}
+
+/*Para que el contenido y el texto queden bien ordenados*/
+.ordenar {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.ordenar > img {
+  width: 15em;
+  height: 16em;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 5em;
+  font-weight: 2000;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h2 {
+  font-size: 3.5em;
+}
+.destacar:hover {
+  font-size: 5em;
+}
+p {
+  font-size: 1.5em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.btn {
+  display: inline;
+  flex-wrap: wrap;
+
+  margin-bottom: 1em;
+}
+
+.modo_oscuro {
+  background-color: black;
+  color: white;
+}
+
+.modo_claro {
+  background-color: rgba(213, 207, 207, 0.505);
+  color: black;
+}
+
+.circ {
+  border-radius: 180%;
+}
+
+.proximamente {
+  width: 15em;
+  height: 18rem;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+
+.subtitulo {
+  text-align: end;
+  color: black;
+}
+
+.ultimo {
+  text-align: end;
+}

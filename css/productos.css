@@ -1,0 +1,17 @@
+.ajustar {
+  width: 8em;
+  height: 8em;
+}
+
+.card {
+  color: rgb(19, 14, 9);
+  width: 17em;
+  height: 20em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card:hover {
+  background-color: aquamarine;
+  color: black;
+}

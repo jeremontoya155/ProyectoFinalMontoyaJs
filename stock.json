@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nombreP": "Cera",
+    "marca": "Gran Bastardo",
+    "precio": 700,
+    "imagen": "../images/cera_granBastardo.png"
+  },
+  {
+    "id": 2,
+    "nombreP": "Cera",
+    "marca": "Mr Blonde",
+    "precio": 850,
+    "imagen": "../images/cera_mrblonde.png"
+  },
+  {
+    "id": 3,
+    "nombreP": "Texturizador",
+    "marca": "Mr Blonde",
+    "precio": 1200,
+    "imagen": "../images/texturizador_mrBlonde.png"
+  },
+  {
+    "id": 4,
+    "nombreP": "Texturizador",
+    "marca": "Yilhoo",
+    "precio": 1000,
+    "imagen": "../images/texturizadorYilho.png"
+  },
+  {
+    "id": 5,
+    "nombreP": "Shampoo",
+    "marca": "Opcion",
+    "precio": 1500,
+    "imagen": "../images/shampoOpcion.png"
+  },
+  {
+    "id": 6,
+    "nombreP": "Shampoo",
+    "marca": "Sulkey",
+    "precio": 1900,
+    "imagen": "../images/silkeyShampoo.png"
+  },
+  {
+    "id": 7,
+    "nombreP": "Filos",
+    "marca": "Gillete",
+    "precio": 2700,
+    "imagen": "../images/filo_gillete.png"
+  },
+  {
+    "id": 8,
+    "nombreP": "Filos",
+    "marca": "ELIOS",
+    "precio": 3000,
+    "imagen": "../images/filosElios.png"
+  },
+  {
+    "id": 9,
+    "nombreP": "Filos",
+    "marca": "Super Max",
+    "precio": 2450,
+    "imagen": "../images/filosSupermax.png"
+  }
+]
